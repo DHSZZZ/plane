@@ -21,8 +21,8 @@ var CONFIG = {
     },
     // 小型敌人大小
     enemyBigSize: {
-        width: 70,
-        height: 92
+        width: 30,
+        height: 52
     },
     // 资源
     resources: {
