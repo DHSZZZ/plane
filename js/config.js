@@ -52,7 +52,7 @@ var CONFIG = {
             },
             {
                 name: 'enemyFireIcon',
-                src: ''
+                src: './img/fire.png'
             },
             { name: 0, src: './img/bg_1.jpg' },
             { name: 1, src: './img/bg_2.jpg' },
