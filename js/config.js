@@ -36,7 +36,7 @@ var CONFIG = {
             },
             {
                 name: 'enemyBigIcon',
-                src: './img/hf.jpg'
+                src: './img/hf.png'
             },
             {
                 name: 'enemySamllIcon',
